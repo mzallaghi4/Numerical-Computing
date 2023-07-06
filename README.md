@@ -9,8 +9,8 @@ This repository contains a collection of code examples, tutorials, and resources
 
 * [Getting Started](#getting-started)
 * [Topics Covered](#topics-covered)
-* [Contributing](#contributing)
-* [License](#license)
+* [Notebook](#Notebook)
+
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ The following topics are covered in this repository:
 
 Each topic is covered with code examples and tutorials in the `notebooks` directory.
 
-## Notebooks
+## Notebook
  Introdution
  
 
